@@ -1,2 +1,2 @@
 # social-media-app
-it is test for learn
+it is test for learning
